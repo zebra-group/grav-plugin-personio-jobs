@@ -1,0 +1,4 @@
+en:
+  PLUGIN_PERSONIO_JOBS:
+    SOURCE: Personio Space URL
+    SOURCE_HELP: Something like https://example.jobs.personio.de
