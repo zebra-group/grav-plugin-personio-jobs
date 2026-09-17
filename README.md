@@ -41,20 +41,20 @@ To install the plugin automaticall with `bin/grav install`, add the following to
 ```
 git:
     personio-jobs:
-        url: https://github.com/mindbox/grav-plugin-personio-jobs
+        url: https://github.com/zebra-group/grav-plugin-personio-jobs
         path: user/plugins/personio-jobs
         branch: main
 ```
 
 ### Manual Installation
 
-To install the plugin manually, download the zip-version of this repository and unzip it under `/your/site/grav/user/plugins`. Then rename the folder to `personio-jobs`. You can find these files on [GitHub](https://github.com/mindbox/grav-plugin-personio-jobs) or via [GetGrav.org](https://getgrav.org/downloads/plugins).
+To install the plugin manually, download the zip-version of this repository and unzip it under `/your/site/grav/user/plugins`. Then rename the folder to `personio-jobs`. You can find these files on [GitHub](https://github.com/zebra-group/grav-plugin-personio-jobs) or via [GetGrav.org](https://getgrav.org/downloads/plugins).
 
 You should now have all the plugin files under
 
     /your/site/grav/user/plugins/personio-jobs
 	
-> NOTE: This plugin is a modular component for Grav which may require other plugins to operate, please see its [blueprints.yaml-file on GitHub](https://github.com/mindbox/grav-plugin-personio-jobs/blob/main/blueprints.yaml).
+> NOTE: This plugin is a modular component for Grav which may require other plugins to operate, please see its [blueprints.yaml-file on GitHub](https://github.com/zebra-group/grav-plugin-personio-jobs/blob/main/blueprints.yaml).
 
 ## Configuration
 

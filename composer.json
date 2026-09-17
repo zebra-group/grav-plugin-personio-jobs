@@ -1,15 +1,15 @@
 {
-  "name": "mindbox/personio-jobs",
+  "name": "zebra-group/personio-jobs",
   "type": "grav-plugin",
   "description": "Fetch, cache and show job offerings from Personio",
   "version": "1.0.0",
   "keywords": ["plugin"],
-  "homepage": "https://github.com/mindbox/grav-plugin-personio-jobs",
+  "homepage": "https://github.com/zebra-group/grav-plugin-personio-jobs",
   "license": "MIT",
   "authors": [
     {
       "name": "Sebastian Laube",
-      "email": "sebastian.laube@mindbox.de",
+      "email": "sebastian.laube@zebra.de",
       "role": "Developer"
     }
   ],
