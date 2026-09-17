@@ -6,11 +6,11 @@ description: Fetch, cache and show job offerings from Personio
 icon: plug
 author:
   name: Sebastian Laube
-  email: sebastian.laube@mindbox.de
-homepage: https://github.com/mindbox/grav-plugin-personio-jobs
+  email: sebastian.laube@zebra.de
+homepage: https://github.com/zebra-group/grav-plugin-personio-jobs
 keywords: grav, plugin, personio, jobs
-bugs: https://github.com/mindbox/grav-plugin-personio-jobs/issues
-docs: https://github.com/mindbox/grav-plugin-personio-jobs/blob/develop/README.md
+bugs: https://github.com/zebra-group/grav-plugin-personio-jobs/issues
+docs: https://github.com/zebra-group/grav-plugin-personio-jobs/blob/develop/README.md
 license: MIT
 
 dependencies:
