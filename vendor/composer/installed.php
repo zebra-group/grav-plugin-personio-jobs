@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'mindbox/personio-jobs',
+        'name' => 'zebra-group/personio-jobs',
         'pretty_version' => '1.0.0',
         'version' => '1.0.0.0',
-        'reference' => NULL,
+        'reference' => null,
         'type' => 'grav-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'mindbox/personio-jobs' => array(
+        'zebra-group/personio-jobs' => array(
             'pretty_version' => '1.0.0',
             'version' => '1.0.0.0',
-            'reference' => NULL,
+            'reference' => null,
             'type' => 'grav-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
